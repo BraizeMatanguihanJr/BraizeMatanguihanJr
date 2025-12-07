@@ -12,7 +12,7 @@ Welcome to my GitHub profile. I am a BS Computer Science student exploring vario
 ---
 
 ## 📜 Certifications  
-- [SQL and Relational Databases 101 Certificate](#)
+- [SQL and Relational Databases 101 Certificate](https://courses.cognitiveclass.ai/certificates/2ae54ba1dbb8455791a8a902db45fe85)
 
 ---
 
