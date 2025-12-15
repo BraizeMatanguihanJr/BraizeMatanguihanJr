@@ -14,6 +14,7 @@ Welcome to my GitHub profile. I am a BS Computer Science student exploring vario
 ## 📜 Certifications  
 - [SQL and Relational Databases 101 Certificate](https://courses.cognitiveclass.ai/certificates/2ae54ba1dbb8455791a8a902db45fe85)
 - [Become An OCI Foundations Associate (2025)](#)
+- [Oracle Data Platform Foundations Associate](#)
 
 ---
 
